@@ -10,9 +10,16 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    // Mark: Properties (Outlets)(Constants)
+
+    
+    //Mark: Methods (Actions)
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
+        
     }
 
 

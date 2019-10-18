@@ -12,12 +12,16 @@ class ViewController: UIViewController {
 
     // Mark: Properties (Outlets)(Constants)
 
+ 
+
+    // Mark: Methods (functions)
     
-    //Mark: Methods (Actions)
+   // Runs as soon as the view becomes visible to the user
     
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+    
         
         
     }

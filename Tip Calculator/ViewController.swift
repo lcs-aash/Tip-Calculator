@@ -11,12 +11,14 @@ import UIKit
 class ViewController: UIViewController {
 
     // Mark: Properties (Outlets)(Constants)
+    var billAmount: UITextField!
+    var tipPercentage: UITextField!
+    var peopleCount: UITextField!
+    var totalTipInDollars: UILabel!
+    var tipPerPersonInDollars: UILabel!
 
- 
 
     // Mark: Methods (functions)
-    
-   // Runs as soon as the view becomes visible to the user
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -25,6 +27,11 @@ class ViewController: UIViewController {
         
         
     }
+
+    // Get the user input
+     
+    
+    // Calculate the tip and report results
 
 
 }

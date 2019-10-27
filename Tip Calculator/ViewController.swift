@@ -21,8 +21,6 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var tipPerPersonInDollars: UILabel!
     
-
-
     // Mark: Methods (functions)
     
     override func viewDidLoad() {

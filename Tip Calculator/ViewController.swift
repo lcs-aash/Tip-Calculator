@@ -35,6 +35,7 @@ class ViewController: UIViewController {
     @IBAction func calculateTip(_ sender: Any) {
 
 
+
     // Receive information from user
     let billAmountAsString = billAmount.text!
     
